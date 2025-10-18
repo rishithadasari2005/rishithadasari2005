@@ -18,9 +18,8 @@ I'm passionate about technology, coding, and continuous learning. Here you can f
   - [Add your interests here]
 
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rishithadasari/)
+- Email: [your.rishithadasari2005@gmail.com](mailto:rishithadasari2005@gmail.com)
 
 ## 📊 GitHub Stats
 
