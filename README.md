@@ -10,12 +10,12 @@ I'm passionate about technology, coding, and continuous learning. Here you can f
   - Python  
   - JavaScript  
   - HTML & CSS  
-  - [Add any other languages or frameworks you use]
+  
 - 💡 Interests:  
   - Web Development  
   - Open Source  
   - Automation  
-  - [Add your interests here]
+ 
 
 ## 📫 Connect with Me
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rishithadasari/)
