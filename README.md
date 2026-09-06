@@ -18,8 +18,8 @@ I'm passionate about technology, coding, and continuous learning. Here you can f
  
 
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rishithadasari/)
-- Email: [your.rishithadasari2005@gmail.com](mailto:rishithadasari2005@gmail.com)
+- LinkedIn: (https://www.linkedin.com/in/rishithadasari/)
+- Email:(mailto:rishithadasari2005@gmail.com)
 
 ## 📊 GitHub Stats
 
